@@ -28,7 +28,7 @@ function Hero({ darkMode }) {
 
       {/* Profile Image with Tilt */}
       <motion.img
-        src="/profile.jpg.jpeg"
+        src="/portfolio/profile.jpg.jpeg"
         alt="Vikram"
         className="w-64 h-64 rounded-full border-4 border-blue-500 shadow-2xl object-cover object-top mb-8 cursor-pointer"
         animate={{
